@@ -1,0 +1,12 @@
+bootstrap
+css3 animationer
+Javascript animationer
+slides
+bild animationer
+transitions
+icon
+navbar animationer
+fixad för alla typer av skärmar 
+Font awsome icons
+knapp som visar specifika bilder. tex land eller liknande
+Jquary 
